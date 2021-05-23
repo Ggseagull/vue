@@ -1,0 +1,14 @@
+html,body,#app{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.el-breadcrumb{
+    margin-bottom: 20px;
+}
+.quill-editor{
+    background-color: white;
+}
+.ql-editor{
+    min-height: 200px;
+}
